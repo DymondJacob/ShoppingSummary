@@ -1,5 +1,7 @@
 # Shopping Cart Promo Code App
 
+# Built with React/Redux
+
 # To Use
 
 1. Download Project folder
